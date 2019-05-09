@@ -54,3 +54,12 @@ topics:
     
   - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
+
+  - name: Go
+    web_url: https://github.com/topics/go
+    
+  - name: Django
+    web_url: https://github.com/topics/django
+    
+  - name: Flask
+    web_url: https://github.com/topics/flask
