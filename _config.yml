@@ -67,3 +67,8 @@ topics:
   - name: Flask
     web_url: https://github.com/topics/flask
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
+
+  - name: Vue
+    web_url: https://github.com/topics/vue
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png
+ 
