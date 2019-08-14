@@ -51,6 +51,10 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
+  - name: PyTorch
+    web_url: https://github.com/topics/pytorch
+    image_url: https://avatars0.githubusercontent.com/u/21003710?s=200&v=4
+
   - name: TensorFlow
     web_url: https://github.com/topics/tensorflow
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/tensorflow/tensorflow.png
@@ -63,14 +67,3 @@ topics:
     web_url: https://github.com/topics/deep-learning
     image_url: https://avatars3.githubusercontent.com/u/31592135?s=280&v=4
  
-  - name: Rust
-    web_url: https://github.com/topics/rust
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
-
-  - name: Go
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
- 
-  - name: Flask
-    web_url: https://github.com/topics/flask
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flask/flask.png
