@@ -38,7 +38,6 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   telegram: crazymidnigt
-  telegram: morelayers
   # twitter: your_username
   # youtube: your_username
   instagram: _crazymidnight
@@ -52,23 +51,14 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: PyTorch
-    web_url: https://github.com/topics/pytorch
-    image_url: https://avatars0.githubusercontent.com/u/21003710?s=200&v=4
-
-  - name: TensorFlow
-    web_url: https://github.com/topics/tensorflow
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/tensorflow/tensorflow.png
-  
-  - name: Keras
-    web_url: https://github.com/topics/keras
-    image_url: https://avatars2.githubusercontent.com/u/34455048?s=200&v=4
-
   - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
     image_url: https://avatars3.githubusercontent.com/u/31592135?s=280&v=4
+
+  - name: Product management
+
+  - name: Cloud-native apps
+
+  - name: DevOps
     
-  - name: Medical Computer Vision
-  
-  - name: ML in Finance
- 
+  - name: Computer vision
