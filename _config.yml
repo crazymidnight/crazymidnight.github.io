@@ -54,7 +54,10 @@ topics:
   - name: Deep Learning
     web_url: https://github.com/topics/deep-learning
     image_url: https://avatars3.githubusercontent.com/u/31592135?s=280&v=4
+    
+  - name: Computer Vision
+    web_url: https://github.com/topics/deep-learning
 
-  - name: Product management
+  - name: Product Management
 
-  - name: Cloud-native apps
+  - name: Cloud-native Apps
