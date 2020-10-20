@@ -51,13 +51,14 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  - name: Deep Learning
-    web_url: https://github.com/topics/deep-learning
-    image_url: https://avatars3.githubusercontent.com/u/31592135?s=280&v=4
-    
-  - name: Computer Vision
-    web_url: https://github.com/topics/computer-vision
+  - name: Golang
+    web_url: https://github.com/topics/golang
+    image_url: https://raw.githubusercontent.com/golang/go/master/doc/gopher/fiveyears.jpg
 
-  - name: Product Management
+  - name: System Design
 
   - name: Cloud-native Apps
+
+  - name: Machine Learning
+
+  - name: Product Management
